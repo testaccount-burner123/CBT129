@@ -1,6 +1,6 @@
-2025-04-08 19:34:19.285900 - Received CBT.V508.FILE129.PDS from FILE129.XMI 
-2025-04-08 19:34:19.289385 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE129.PDS, moved to PDS/$$$DOC
-2025-04-08 19:34:19.290941 - Found $$$DOC1.txt (text/plain) in CBT.V508.FILE129.PDS, moved to PDS/$$$DOC1
-2025-04-08 19:34:19.292404 - Found @FILE129.txt (text/plain) in CBT.V508.FILE129.PDS, moved to PDS/@FILE129
-2025-04-08 19:34:19.294049 - Found OLDZAP.txt (text/plain) in CBT.V508.FILE129.PDS, moved to PDS/OLDZAP
-2025-04-08 19:34:19.295719 - Found SHRDASD.txt (text/plain) in CBT.V508.FILE129.PDS, moved to PDS/SHRDASD
+2025-04-08 23:46:42.874381 - Received CBT.V508.FILE129.PDS from FILE129.XMI 
+2025-04-08 23:46:42.875880 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE129.PDS, moved to PDS/$$$DOC
+2025-04-08 23:46:42.876569 - Found $$$DOC1.txt (text/plain) in CBT.V508.FILE129.PDS, moved to PDS/$$$DOC1
+2025-04-08 23:46:42.877190 - Found @FILE129.txt (text/plain) in CBT.V508.FILE129.PDS, moved to PDS/@FILE129
+2025-04-08 23:46:42.877790 - Found OLDZAP.txt (text/plain) in CBT.V508.FILE129.PDS, moved to PDS/OLDZAP
+2025-04-08 23:46:42.878351 - Found SHRDASD.txt (text/plain) in CBT.V508.FILE129.PDS, moved to PDS/SHRDASD
